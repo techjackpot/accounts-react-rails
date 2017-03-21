@@ -1,25 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== React/Rails Expense Demo
 
-Things you may want to cover:
+This is a React/Rails demo application built following an Airpair tutorial.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# accounts-react-rails
+* Tutorial: https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
