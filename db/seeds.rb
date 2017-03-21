@@ -7,14 +7,14 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 3.times do |i|
   record = { date: Date.today,
-             title: "Title",
+             title: "Credit",
              amount: rand(0..100).to_i }
   Record.create(record)
 end
 
 3.times do |i|
   record = { date: Date.today,
-             title: "Title",
+             title: "Debit",
              amount: rand(-100..0).to_i }
   Record.create(record)
 end

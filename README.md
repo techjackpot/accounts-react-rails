@@ -7,3 +7,4 @@ This is a React/Rails demo application built following an Airpair tutorial.
 
 == To Do
 * rails db:migrate RAILS_ENV=development
+* rake db:seed
