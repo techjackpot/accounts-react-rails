@@ -1,2 +1,10 @@
 @import "bootstrap-sprockets";
 @import "bootstrap-custom";
+
+.form-inline .form-group {
+	margin-right: 1em;
+}
+
+td a.btn {
+	margin-right: 0.5em;
+}
